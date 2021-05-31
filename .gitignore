@@ -1,3 +1,4 @@
 .vscode
-CommanderGQL/obj
+CommanderGQL/obj/
+CommanderGQL/bin/
 .vs
