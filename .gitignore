@@ -2,3 +2,4 @@
 CommanderGQL/obj/
 CommanderGQL/bin/
 .vs
+CommanderGQL/appsettings.Development.json
